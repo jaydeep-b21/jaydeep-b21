@@ -2,6 +2,7 @@
 <h3 align="center">Exploring Data Analysis | Data Science | Machine Learning </h3>
 
 <h3 align="left">I have knowledge & technical experience in:</h3>
+
 - Data Analysis
 
 - Machine learning
