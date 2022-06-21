@@ -1,13 +1,12 @@
 <h1 align="center">Hi😊, I'm JAYDEEP BISWAS | Nice to meet you!!</h1>
-<h3 align="center">Exploring Data Science | Machine Learning | Deep Learning</h3>
+<h3 align="center">Exploring Data Analysis | Data Science | Machine Learning </h3>
 
 <h3 align="left">I have knowledge & technical experience in:</h3>
+- Data Analysis
 
 - Machine learning
 
-- Deep learning
-
-🔭 I’m currently working on the project **Predicting bankruptcy using Machine Learning**
+🔭 I’m currently working on the project **Insights QS World University Ranking Data Analysis**
 
 📫 How to reach me **jaydeep.biswas21@gmail.com**
 
