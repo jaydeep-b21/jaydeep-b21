@@ -120,7 +120,7 @@ I'm a dedicated developer and AI enthusiast, passionate about leveraging advance
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jaydeep-b21&theme=ambient_gradient" alt="GitHub Activity Graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-b21&show_icons=true&theme=ambient_gradient" alt="Jaydeep's GitHub stats"/>
 </p>
 
 ## 📈 Top Languages
