@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😊, I'm Jaydeep Biswas | Nice to meet you!</h1>
-<h3 align="center">Exploring Large Language Models in NLP | Data Science | Machine Learning | Deep Learning | Knowledge Graph | Data Analysis</h3>
+<h3 align="center">Exploring Agentic AI | Large Language Models | NLP | Data Science | Machine Learning | Deep Learning | Knowledge Graph | Data Analysis</h3>
 
-Hello! I'm **Jaydeep**, a Python Developer with over two years of experience in building web applications, deploying machine learning models, and implementing automation solutions. My expertise spans **Generative AI**, **Natural Language Processing (NLP)**, and **Web Development** with Django and Flask. I thrive in collaborative environments and enjoy exploring innovative ways to solve complex problems with technology.
+Hello! I'm **Jaydeep**, a Python Developer with over three years of experience in building web applications, deploying machine learning models, and implementing automation solutions. My expertise spans **Generative AI**, **Natural Language Processing (NLP)**, and **Web Development** with Django, Flask and Fast API. I thrive in collaborative environments and enjoy exploring innovative ways to solve complex problems with technology.
 
 ---
 
@@ -29,6 +29,7 @@ Hello! I'm **Jaydeep**, a Python Developer with over two years of experience in 
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
   <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white" alt="Django REST API"/>
+  <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
 </p>
 
 ### Cloud & Hosting Platforms
@@ -36,19 +37,29 @@ Hello! I'm **Jaydeep**, a Python Developer with over two years of experience in 
   <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP"/>
   <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" alt="Heroku"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure"/>
+  <img src="https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=for-the-badge&logo=openai&logoColor=white" alt="Azure OpenAI"/>
 </p>
 
 ### Version Control & CI/CD
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins"/>
+  <img src="https://img.shields.io/badge/JFrog%20Artifactory-41BF47?style=for-the-badge&logo=jfrog&logoColor=white" alt="JFrog Artifactory"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AKS-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure Kubernetes Service (AKS)"/>
 </p>
 
 ### Databases
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MS_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="MS SQL Server"/>
   <img src="https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j"/>
+  <img src="https://img.shields.io/badge/Knowledge%20Graph-6A5ACD?style=for-the-badge&logo=semanticweb&logoColor=white" alt="Knowledge Graph"/>
 </p>
 
 ### Data Science & Machine Learning
@@ -87,6 +98,17 @@ Hello! I'm **Jaydeep**, a Python Developer with over two years of experience in 
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter"/>
 </p>
 
+## Agentic AI & Autonomous Systems
+
+<p align="left">
+  <img src="https://img.shields.io/badge/MCP_Servers-FF9900?style=for-the-badge&logo=openai&logoColor=white" alt="MCP Servers"/>
+  <img src="https://img.shields.io/badge/Langflow-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" alt="Langflow"/>
+  <img src="https://img.shields.io/badge/LangGraph-2D2D2D?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/AgenticRAG-008080?style=for-the-badge&logo=agent&logoColor=white" alt="AgenticRAG"/>
+  <img src="https://img.shields.io/badge/ReAct_Pattern-000000?style=for-the-badge&logo=openai&logoColor=white" alt="ReAct Pattern"/>
+  <img src="https://img.shields.io/badge/AI_Agents-0A9396?style=for-the-badge&logo=openai&logoColor=white" alt="AI Agents"/>
+</p>
+
 ---
 
 ## 🏆 Summary
@@ -98,7 +120,7 @@ I'm a dedicated developer and AI enthusiast, passionate about leveraging advance
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-b21&show_icons=true&theme=ambient_gradient" alt="Jaydeep's GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-b21&show_icons=true&theme=github_dark&hide=prs,issues&count_private=true" alt="Jaydeep's GitHub Stats (All Time)"/>
 </p>
 
 ## 📈 Top Languages
@@ -111,7 +133,7 @@ I'm a dedicated developer and AI enthusiast, passionate about leveraging advance
 
 ## 💡 Hobbies and Areas of Interest
 
-- **Machine Learning & AI**: Exploring Generative AI, Deep Learning, and NLP to tackle real-world challenges.
+- **Machine Learning & AI**: Exploring Agentic AI, Generative AI, Deep Learning, and NLP to tackle real-world challenges.
 - **Automation**: Enthusiastic about automating workflows and boosting efficiency through APIs and web applications.
 - **Data Analytics**: Crafting interactive dashboards and predictive models to support data-driven decisions.
 - **Image Processing**: Enhancing document digitization with image pre-processing and computer vision.
