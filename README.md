@@ -123,22 +123,10 @@ I'm a dedicated developer and AI enthusiast, passionate about leveraging advance
   <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-b21&show_icons=true&theme=ambient_gradient" alt="Jaydeep's GitHub stats"/>
 </p>
 
-##  Featured Projects
-
 <p align="center">
-  <a href="https://github.com/jaydeep-b21/Bank-Assistant-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep-b21&repo=Bank-Assistant-Chatbot&theme=ambient_gradient" alt="Bank‑Assistant‑Chatbot" />
-  </a>
-  <a href="https://github.com/jaydeep-b21/Job-Application-Management-with-Smart-Assistant">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep-b21&repo=Job-Application-Management-with-Smart-Assistant&theme=ambient_gradient" alt="Job‑Application‑Management‑with‑Smart‑Assistant" />
-  </a>
-  <a href="https://github.com/jaydeep-b21/Conversational-Chatbot-Insights">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep-b21&repo=Conversational-Chatbot-Insights&theme=ambient_gradient" alt="Conversational‑Chatbot‑Insights" />
-  </a>
-  <a href="https://github.com/jaydeep-b21/Agentic-AI-using-Basic-Langgraph">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jaydeep-b21&repo=Agentic-AI-using-Basic-Langgraph&theme=ambient_gradient" alt="Agentic‑AI‑using‑Basic‑Langgraph" />
-  </a>
+  <img src="https://streak-stats.demolab.com?user=jaydeep-b21&theme=gradient" alt="GitHub Streak"/>
 </p>
+
 
 ## 📈 Top Languages
 
