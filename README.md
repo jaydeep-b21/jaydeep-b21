@@ -125,13 +125,14 @@ I'm a dedicated developer and AI enthusiast, passionate about leveraging advance
 
 ## 📈 Top Languages
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Jupyter-3766AB?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/>
-</p>
+- **Jupyter Notebook**  
+  `████████████████████████████ 76.18%`
+
+- **Python**  
+  `██████████████ 18.25%`
+
+- **JavaScript**  
+  `██████ 5.25%`
 
 ---
 
