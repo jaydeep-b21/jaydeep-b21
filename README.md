@@ -117,14 +117,10 @@ I'm a dedicated developer and AI enthusiast, passionate about leveraging advance
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jaydeep-b21&show_icons=true&theme=ambient_gradient" alt="Jaydeep's GitHub stats"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=jaydeep-b21&theme=gradient" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=jaydeep-b21&theme=tokyonight" alt="GitHub Streak"/>
 </p>
 
 
