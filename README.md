@@ -147,6 +147,6 @@ I'm a dedicated developer and AI enthusiast, passionate about leveraging advance
 
 ## 🚀 Let's Collaborate!
 
-I'm open to new opportunities and collaborations in **Python Development**, **AI & Machine Learning**, and **Web Application Development**. If you're working on an exciting project, feel free to connect!
+I'm open to new opportunities and collaborations in **Python Development**, **Gen AI** , **AI & Machine Learning**, and **Web Application Development**. If you're working on an exciting project, feel free to connect!
 
 Always learning, problem-solving, and keeping up with the latest in tech!
