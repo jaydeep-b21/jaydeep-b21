@@ -1,7 +1,7 @@
 <h1 align="center">Hi 😊, I'm Jaydeep Biswas | Nice to meet you!</h1>
 <h3 align="center">Exploring Agentic AI | Generative AI | Large Language Models | NLP | Data Science | Machine Learning | Deep Learning | Knowledge Graph | Data Analysis</h3>
 
-Hello! I'm **Jaydeep**, a Python Developer with over three years of experience in building web applications, designing and deploying AI/ML models and implementing automation solutions. My expertise spans **Agentic AI**, **Generative AI**, **Natural Language Processing (NLP)** and **Web Development** with Django, Flask & Fast API. I thrive in collaborative environments and enjoy exploring innovative ways to solve complex problems with technology.
+Hello! I'm **Jaydeep**, a Python Developer with over three years of experience in building web applications, designing and deploying AI/ML models and implementing automation solutions. My expertise spans **Agentic AI**, **Generative AI**, **Natural Language Processing (NLP)** and **Web Development** with Django, Flask and Fast API. I thrive in collaborative environments and enjoy exploring innovative ways to solve complex problems with technology.
 
 ---
 
